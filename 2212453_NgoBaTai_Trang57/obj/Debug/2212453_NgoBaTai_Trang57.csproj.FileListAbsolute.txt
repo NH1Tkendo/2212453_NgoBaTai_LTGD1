@@ -1,0 +1,10 @@
+D:\2212453_NgoBaTai_LTGD1\2212453_NgoBaTai_Trang57\bin\Debug\2212453_NgoBaTai_Trang57.exe.config
+D:\2212453_NgoBaTai_LTGD1\2212453_NgoBaTai_Trang57\bin\Debug\2212453_NgoBaTai_Trang57.exe
+D:\2212453_NgoBaTai_LTGD1\2212453_NgoBaTai_Trang57\bin\Debug\2212453_NgoBaTai_Trang57.pdb
+D:\2212453_NgoBaTai_LTGD1\2212453_NgoBaTai_Trang57\obj\Debug\2212453_NgoBaTai_Trang57.csproj.AssemblyReference.cache
+D:\2212453_NgoBaTai_LTGD1\2212453_NgoBaTai_Trang57\obj\Debug\_2212453_NgoBaTai_Trang57.Form1.resources
+D:\2212453_NgoBaTai_LTGD1\2212453_NgoBaTai_Trang57\obj\Debug\_2212453_NgoBaTai_Trang57.Properties.Resources.resources
+D:\2212453_NgoBaTai_LTGD1\2212453_NgoBaTai_Trang57\obj\Debug\2212453_NgoBaTai_Trang57.csproj.GenerateResource.cache
+D:\2212453_NgoBaTai_LTGD1\2212453_NgoBaTai_Trang57\obj\Debug\2212453_NgoBaTai_Trang57.csproj.CoreCompileInputs.cache
+D:\2212453_NgoBaTai_LTGD1\2212453_NgoBaTai_Trang57\obj\Debug\2212453_NgoBaTai_Trang57.exe
+D:\2212453_NgoBaTai_LTGD1\2212453_NgoBaTai_Trang57\obj\Debug\2212453_NgoBaTai_Trang57.pdb

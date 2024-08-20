@@ -1,0 +1,10 @@
+D:\2212453_NgoBaTai_LTGD1\2212453_NgoBaTai_Trang56\bin\Debug\2212453_NgoBaTai_Trang56.exe.config
+D:\2212453_NgoBaTai_LTGD1\2212453_NgoBaTai_Trang56\bin\Debug\2212453_NgoBaTai_Trang56.exe
+D:\2212453_NgoBaTai_LTGD1\2212453_NgoBaTai_Trang56\bin\Debug\2212453_NgoBaTai_Trang56.pdb
+D:\2212453_NgoBaTai_LTGD1\2212453_NgoBaTai_Trang56\obj\Debug\2212453_NgoBaTai_Trang56.csproj.AssemblyReference.cache
+D:\2212453_NgoBaTai_LTGD1\2212453_NgoBaTai_Trang56\obj\Debug\_2212453_NgoBaTai_Trang56.frmDemoRadioButtons.resources
+D:\2212453_NgoBaTai_LTGD1\2212453_NgoBaTai_Trang56\obj\Debug\_2212453_NgoBaTai_Trang56.Properties.Resources.resources
+D:\2212453_NgoBaTai_LTGD1\2212453_NgoBaTai_Trang56\obj\Debug\2212453_NgoBaTai_Trang56.csproj.GenerateResource.cache
+D:\2212453_NgoBaTai_LTGD1\2212453_NgoBaTai_Trang56\obj\Debug\2212453_NgoBaTai_Trang56.csproj.CoreCompileInputs.cache
+D:\2212453_NgoBaTai_LTGD1\2212453_NgoBaTai_Trang56\obj\Debug\2212453_NgoBaTai_Trang56.exe
+D:\2212453_NgoBaTai_LTGD1\2212453_NgoBaTai_Trang56\obj\Debug\2212453_NgoBaTai_Trang56.pdb
